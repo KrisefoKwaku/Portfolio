@@ -962,29 +962,29 @@ section {
     margin-top: 1rem;
     margin-bottom: 3rem;
   }
-  main .contact .contact-container .contact-content-container {
+  main .contact .contact-container .blog-container .contact-content-container {
     display: flex;
     padding-top: 1.5rem;
     flex-direction: column;
   }
-  main .contact .contact-container .contact-content-container .left-contact .p {
+  main .contact .contact-container .blog-container .contact-content-container .left-contact .p {
     margin: 1rem 0;
     line-height: 1.3rem;
   }
-  main .contact .contact-container .contact-content-container .left-contact .contact-icon {
+  main .contact .contact-container .blog-container .contact-content-container .left-contact .contact-icon {
     display: grid;
     margin-top: 2rem;
     align-items: center;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   }
-  main .contact .contact-container .contact-content-container .left-contact .contact-icon .image-item img {
+  main .contact .contact-container .blog-container .contact-content-container .left-contact .contact-icon .image-item img {
     margin-left: 163px;
     width: 160px;
     height: 160px;
     -o-object-fit: cover;
        object-fit: cover;
   }
-  main .contact .contact-container .contact-content-container .left-contact .contact-icon .image-item a {
+  main .contact .contact-container .blog-container .contact-content-container .left-contact .contact-icon .image-item a {
     display: flex;
     align-items: center;
     color: var(--color-white);
@@ -996,7 +996,7 @@ section {
     border-radius: 50%;
     margin: 0 0.4rem;
   }
-  main .contact .contact-container .contact-content-container .left-contact .contact-icon .image-item .hover-items {
+  main .contact .contact-container .blog-container .contact-content-container .left-contact .contact-icon .image-item .hover-items {
     margin-left: 163px;
     width: 160px;
     height: 160px;
@@ -1013,15 +1013,15 @@ section {
             backface-visibility: hidden;
     transform: rotateX(180deg);
   }
-  main .contact .contact-container .contact-content-container .right-contact {
+  main .contact .contact-container .blog-container .contact-content-container .right-contact {
     flex: 3;
     margin-left: 0px;
     margin-bottom: 70px;
   }
-  main .contact .contact-container .contact-content-container .right-contact .i-control-2 {
+  main .contact .contact-container .blog-container .contact-content-container .right-contact .i-control-2 {
     display: flex;
   }
-  main .contact .contact-container .contact-content-container .right-contact .input-control {
+  main .contact .contact-container .blog-container .contact-content-container .right-contact .input-control {
     margin: 1.5rem 0;
   }
   .controls {
